@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "zipPath": "updates/latest.zip",
-  "notes": "Versión inicial 0.0.3 con sistema base y actualización remota configurada."
+  "notes": "Novedades de la versión 0.0.2:\n- Nuevo módulo de reportes y analíticas en el panel principal.\n- Top 5 de productos más vendidos y registro de últimas ventas.\n- Alertas automáticas de inventario.\n- Mejoras visuales y accesibilidad al sistema de biometría.\n- Corrección de errores en gestión de inventario y código de barras."
 }
